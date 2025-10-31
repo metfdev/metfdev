@@ -1,4 +1,4 @@
-<-- # 🚀 **Desarrollo Frontend Profesional** ->
+<-- # 🚀 **Desarrollo Frontend Profesional** -->
 *Transformando ideas en experiencias digitales con código limpio, diseño moderno y tecnología avanzada.*
 
 ---
