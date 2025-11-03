@@ -1,5 +1,5 @@
 <h1 align="center">
-  Presentación />
+ 😎 Presentación
 </h1>
 
 ---
@@ -54,25 +54,6 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
 </p>
 
 ---
-
-## 🎨 **Proyectos Destacados**
-### 1️⃣ **Sistema de Gestión con Laravel y Vue.js**
-![Laravel Vue.js](https://media.giphy.com/media/3o7TKTDxNcYyKQJQ40/giphy.gif)
-*Un sistema completo de gestión con autenticación, roles y permisos, y dashboard interactivo.*
-
-### 2️⃣ **API REST con Node.js y MongoDB**
-![Node.js API](https://media.giphy.com/media/Ll22OhQOdYvmO/giphy.gif)
-*API para gestión de datos con autenticación JWT y documentación con Swagger.*
-
-### 3️⃣ **Aplicación de Tareas con React y Python (Django)**
-![React Django](https://media.giphy.com/media/EX7H0McH0YvOe/giphy.gif)
-*Aplicación full-stack para gestionar tareas con frontend en React y backend en Django.*
-
----
-*(Reemplaza los GIFs con capturas de pantalla o demos reales de tus proyectos. Usa herramientas como [GIPHY](https://giphy.com/) o [ScreenToGif](https://www.screentogif.com/) para crearlos.)*
-
----
-
 ## 🤝 **Colaboración y Contacto**
 ¡Me encanta colaborar en proyectos interesantes! Si tienes una idea o necesitas ayuda con desarrollo web, no dudes en contactarme.
 
@@ -87,10 +68,10 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.tiktok.com/@mtfsystemservice/">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=tiktok&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" />
   </a>
   <a href="https://www.instagram.com/mtfsystemservice/">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -110,5 +91,4 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
 
 ---
 *2025 Miguel Ticaray.*
-!Portafolio -> (https://mtfsystemservice.com)
-*Visualización de datos en tiempo real con React y Chart.js.*
+!Portafolio -> https://mtfsystemservice.com/portafolio/
