@@ -62,16 +62,16 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/metfdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
   <a href="mailto:info@mtfsystemservice.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.tiktok.com/@mtfsystemservice/">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" />
+    <img src="https://img.shields.io/badge/Tiktok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" />
   </a>
   <a href="https://www.instagram.com/mtfsystemservice/">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-f56040?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
