@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=¡Hola%2C+soy+Miguel+Ticaray!;Desarrollador+Full+Stack;Apasionado+por+crear+soluciones;Bienvenido+a+mi+perfil+de+GitHub" alt="Presentación" />
+  Presentación />
 </h1>
 
 ---
@@ -49,8 +49,8 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
 
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=METFDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=METFDEV&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
