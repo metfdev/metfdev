@@ -1,6 +1,7 @@
 <h1 align="center">
- 😎 Presentación
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Presentaci%C3%B3n;+Desarrollador+Full+Stack;+Miguel+Ticaray" alt="Presentación" />
 </h1>
+
 
 ---
 
