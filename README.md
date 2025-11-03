@@ -58,7 +58,7 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
 ¡Me encanta colaborar en proyectos interesantes! Si tienes una idea o necesitas ayuda con desarrollo web, no dudes en contactarme.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguelticaray/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-ticaray-836bb6222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/metfdev" target="_blank">
