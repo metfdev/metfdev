@@ -50,10 +50,11 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
 
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=METFDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=METFDEV&layout=compact&theme=radical" alt="Lenguajes más usados" />
+<a href="https://github.com/metfdev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metfdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=metfdev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
 ---
 ## 🤝 **Colaboración y Contacto**
 ¡Me encanta colaborar en proyectos interesantes! Si tienes una idea o necesitas ayuda con desarrollo web, no dudes en contactarme.
