@@ -96,4 +96,4 @@ Soy un **desarrollador Full Stack** con experiencia en **frontend y backend**, e
 
 ---
 *2025 Miguel Ticaray.*
-!Portafolio -> https://mtfsystemservice.com/portafolio/
+!Portafolio -> https://mtfsystemservice.com/
